@@ -56,4 +56,4 @@ py -m unittest
 The unittest module discovers tests in the current directory and its children. All methods prefixed with `Test` are executed. The response on the terminal displays a message only when a test throws an error.
 
 ## References
-- [https://docs.python.org/2/library/unittest.html](Unit Test module from python)
+- [Unit Test module from python](https://docs.python.org/2/library/unittest.html)
